@@ -150,6 +150,8 @@ header .navbar ul li a:hover{
 
 .home{
     background-image: url(./ebun1.PNG);
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     flex-flow: column;
@@ -438,7 +440,7 @@ header .navbar ul li a:hover{
     }
 
     .home{
-        padding:1rem 4rem;
+        padding:1rem 1rem;
     }
 
 }
